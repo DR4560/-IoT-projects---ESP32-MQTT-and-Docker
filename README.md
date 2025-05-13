@@ -1,5 +1,8 @@
 # -IoT-projects---ESP32-MQTT-and-Docker
 
+-The code source basics: https://github.com/PacktPublishing/Node-RED-IoT-projects-with-ESP32-MQTT-and-Docker
+- PlatformIO & VSCode
+
 
 ## Commits describtion
 | Name     | Description                                                     |
